@@ -27,31 +27,10 @@ php build.php
 
 ## 待认领的文件
 
-* src/components/backdrop.md
-* src/components/banners.md
-* src/components/bottom-navigation.md
-* src/components/buttons.md
-* src/components/buttons-floating-action-button.md
-* src/components/cards.md
-* src/components/chips.md
-* src/components/data-tables.md
-* src/components/dialogs.md
-* src/components/dividers.md
-* src/components/image-lists.md
-* src/components/lists.md
-* src/components/menus.md
-* src/components/navigation-drawer.md
-* src/components/progress-indicators.md
-* src/components/selection-controls.md
 * src/components/sheets-bottom.md
 * src/components/sheets-side.md
 * src/components/sliders.md
-* src/components/snackbars.md
-* src/components/tabs.md
-* src/components/text-fields.md
-* src/components/tooltips.md
 * src/environment/elevation.md
-* src/environment/light-shadows.md
 * src/environment/surfaces.md
 * src/foundation-overview/index.md
 * src/guidelines-overview/index.md
@@ -67,24 +46,12 @@ php build.php
 * src/layout/responsive-layout-grid.md
 * src/layout/spacing-methods.md
 * src/layout/understanding-layout.md
-* src/material-studies/about-our-material-studies.md
-* src/material-studies/basil.md
-* src/material-studies/crane.md
-* src/material-studies/fortnightly.md
-* src/material-studies/owl.md
-* src/material-studies/rally.md
-* src/material-studies/reply.md
-* src/material-studies/shrine.md
 * src/material-theming/implementing-your-theme.md
 * src/material-theming/overview.md
 * src/motion/choreography.md
 * src/motion/customization.md
 * src/motion/speed.md
 * src/motion/understanding-motion.md
-* src/navigation/navigation-transitions.md
-* src/navigation/search.md
-* src/navigation/understanding-navigation.md
-* src/platform-guidance/android-bars.md
 * src/platform-guidance/android-fingerprint.md
 * src/platform-guidance/android-haptics.md
 * src/platform-guidance/android-icons.md
@@ -99,14 +66,17 @@ php build.php
 * src/platform-guidance/cross-platform-adaptation.md
 
 ## 翻译中的文件
+
 * src/color/the-color-system.md (@VCEtwp)
 * src/typography/language-support.md (@PaperFlu)
 * src/typography/the-type-system.md (@PaperFlu)
 * src/typography/understanding-typography.md (@PaperFlu)
 * src/usability/index.md (@PaperFlu)
-* src/components/app-bars-top.md (@zdhxiong)
+* src/navigation/navigation-transitions.md (@zhiwei-xu)
+* src/navigation/understanding-navigation.md (@zhiwei-xu)
 
 ## 已翻译完成的文件
+
 * src/color/color-usage.md (@zdhxiong)
 * src/color/text-legibility.md (@Minoyu)
 * src/color/applying-color-to-ui.md (@VCEtwp)
@@ -124,3 +94,27 @@ php build.php
 * src/shape/shape-hierarchy.md (@PaperFlu)
 * src/shape/shape-motion.md (@PaperFlu)
 * src/components/app-bars-bottom.md (@zdhxiong)
+* src/components/app-bars-top.md (@zdhxiong)
+* src/components/backdrop.md (@zdhxiong)
+* src/components/banners.md (@zdhxiong)
+* src/components/bottom-navigation.md (@zdhxiong)
+* src/components/buttons.md (@zdhxiong)
+* src/components/buttons-floating-action-button.md (@zdhxiong)
+* src/components/cards.md (@zdhxiong)
+* src/components/chips.md (@zdhxiong)
+* src/components/data-tables.md (@zdhxiong)
+* src/components/dialogs.md (@zdhxiong)
+* src/navigation/search.md (@zhiwei-xu)
+* src/components/dividers.md (@zdhxiong)
+* src/components/image-lists.md (@zdhxiong)
+* src/components/lists.md (@zdhxiong)
+* src/components/menus.md (@zdhxiong)
+* src/components/progress-indicators.md (@Chheese)
+* src/components/navigation-drawer.md (@zdhxiong)
+* src/components/snackbars.md (@kengwang)
+* src/components/tabs.md (@Chheese)
+* src/components/selection-controls.md (@zdhxiong)
+* src/components/text-fields.md (@kengwang)
+* src/environment/light-shadows.md (@O7I2)
+* src/platform-guidance/android-bars.md (@Chheese)
+* src/components/tooltips.md (@MrWillCom)

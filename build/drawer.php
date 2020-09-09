@@ -11,44 +11,6 @@ return [
         'href' => '../introduction/index.html',
     ],
     [
-        'type' => 'collapse',
-        'title' => 'Material 研究',
-        'children' => [
-            [
-                'title' => '关于我们的 Material 研究',
-                'href' => '../material-studies/about-our-material-studies.html',
-            ],
-            [
-                'title' => 'Basil',
-                'href' => '../material-studies/basil.html',
-            ],
-            [
-                'title' => 'Crane',
-                'href' => '../material-studies/crane.html'
-            ],
-            [
-                'title' => 'Fortnightly',
-                'href' => '../material-studies/fortnightly.html',
-            ],
-            [
-                'title' => 'Owl',
-                'href' => '../material-studies/owl.html',
-            ],
-            [
-                'title' => 'Rally',
-                'href' => '../material-studies/rally.html',
-            ],
-            [
-                'title' => 'Reply',
-                'href' => '../material-studies/reply.html',
-            ],
-            [
-                'title' => 'Shrine',
-                'href' => '../material-studies/shrine.html',
-            ],
-        ],
-    ],
-    [
         'type' => 'subheader',
         'title' => 'Material 基础',
     ],
@@ -321,7 +283,7 @@ return [
                 'href' => '../components/app-bars-top.html',
             ],
             [
-                'title' => '背景',
+                'title' => '背景板',
                 'href' => '../components/backdrop.html',
             ],
             [
@@ -373,7 +335,7 @@ return [
                 'href' => '../components/menus.html',
             ],
             [
-                'title' => '抽屉式导航',
+                'title' => '导航抽屉',
                 'href' => '../components/navigation-drawer.html'
             ],
             [
@@ -381,7 +343,7 @@ return [
                 'href' => '../components/progress-indicators.html',
             ],
             [
-                'title' => '选择控制器',
+                'title' => '选择控件',
                 'href' => '../components/selection-controls.html',
             ],
             [
